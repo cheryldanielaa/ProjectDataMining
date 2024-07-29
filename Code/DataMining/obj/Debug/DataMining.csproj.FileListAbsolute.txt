@@ -1,0 +1,117 @@
+C:\Users\Asus\Desktop\DataMining\DataMining\bin\Debug\DataMining.exe.config
+C:\Users\Asus\Desktop\DataMining\DataMining\bin\Debug\DataMining.exe
+C:\Users\Asus\Desktop\DataMining\DataMining\bin\Debug\DataMining.pdb
+C:\Users\Asus\Desktop\DataMining\DataMining\obj\Debug\DataMining.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\DataMining\DataMining\obj\Debug\DataMining.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\DataMining\DataMining\obj\Debug\DataMining.Properties.Resources.resources
+C:\Users\Asus\Desktop\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\DataMining\DataMining\obj\Debug\DataMining.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DataMining\DataMining\obj\Debug\DataMining.exe
+C:\Users\Asus\Desktop\DataMining\DataMining\obj\Debug\DataMining.pdb
+C:\Users\Asus\Desktop\DataMining\DataMining\obj\Debug\DataMining.FormUtama.resources
+C:\Users\Asus\Desktop\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Asus\Desktop\DataMining\DataMining\bin\Debug\ExcelDataReader.dll
+C:\Users\Asus\Desktop\DataMining\DataMining\bin\Debug\ExcelDataReader.pdb
+C:\Users\Asus\Desktop\DataMining\DataMining\bin\Debug\ExcelDataReader.xml
+C:\Users\Asus\Desktop\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Asus\Desktop\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Asus\Desktop\DataMining\DataMining\obj\Debug\DataMining.csproj.CopyComplete
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\bin\Debug\DataMining.exe.config
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\bin\Debug\DataMining.exe
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\bin\Debug\DataMining.pdb
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\bin\Debug\ExcelDataReader.dll
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\bin\Debug\ExcelDataReader.pdb
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\bin\Debug\ExcelDataReader.xml
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\obj\Debug\DataMining.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\obj\Debug\DataMining.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\obj\Debug\DataMining.FormProject1.resources
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\obj\Debug\DataMining.Properties.Resources.resources
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\obj\Debug\DataMining.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\obj\Debug\DataMining.csproj.CopyComplete
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\obj\Debug\DataMining.exe
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\obj\Debug\DataMining.pdb
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\obj\Debug\DataMining.FormKMeans.resources
+C:\Users\Asus\Desktop\DataMining\DataMining\DataMining\obj\Debug\DataMining.FormUtama.resources
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\bin\Debug\DataMining.exe.config
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\bin\Debug\DataMining.exe
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\bin\Debug\DataMining.pdb
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\bin\Debug\ExcelDataReader.dll
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\bin\Debug\ExcelDataReader.pdb
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\bin\Debug\ExcelDataReader.xml
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\obj\Debug\DataMining.csproj.AssemblyReference.cache
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\obj\Debug\DataMining.FormKMeans.resources
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\obj\Debug\DataMining.FormProject1.resources
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\obj\Debug\DataMining.FormUtama.resources
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\obj\Debug\DataMining.Properties.Resources.resources
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.cache
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\obj\Debug\DataMining.csproj.CoreCompileInputs.cache
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\obj\Debug\DataMining.csproj.CopyComplete
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\obj\Debug\DataMining.exe
+D:\Users\User\Downloads\DataMining (2)\DataMining\DataMining\DataMining\obj\Debug\DataMining.pdb
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\obj\Debug\DataMining.csproj.AssemblyReference.cache
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\obj\Debug\sedih.FormKmeans.resources
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\obj\Debug\DataMining.FormProject1.resources
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\obj\Debug\DataMining.FormUtama.resources
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\obj\Debug\DataMining.Properties.Resources.resources
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.cache
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\obj\Debug\DataMining.csproj.CoreCompileInputs.cache
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\obj\Debug\DataMining.exe
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\obj\Debug\DataMining.pdb
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\bin\Debug\DataMining.exe.config
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\bin\Debug\DataMining.exe
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\bin\Debug\DataMining.pdb
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\bin\Debug\ExcelDataReader.dll
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\bin\Debug\ExcelDataReader.pdb
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\bin\Debug\ExcelDataReader.xml
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Users\User\Downloads\lanjutan aurel+kmeans 12\lanjutan aurel+kmeans 12\DataMining\DataMining\obj\Debug\DataMining.csproj.CopyComplete
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\bin\Debug\DataMining.exe.config
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\bin\Debug\DataMining.exe
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\bin\Debug\DataMining.pdb
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\bin\Debug\ExcelDataReader.dll
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\bin\Debug\ExcelDataReader.pdb
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\bin\Debug\ExcelDataReader.xml
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\obj\Debug\sedih.FormKmeans.resources
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.FormProject1.resources
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.FormUtama.resources
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.Properties.Resources.resources
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.csproj.CopyComplete
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.exe
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.pdb
+C:\Users\Asus\Desktop\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.csproj.ResolveComReference.cache
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\bin\Debug\DataMining.exe.config
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\bin\Debug\DataMining.exe
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\bin\Debug\DataMining.pdb
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.dll
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\bin\Debug\ExcelDataReader.dll
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\bin\Debug\ExcelDataReader.pdb
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\bin\Debug\ExcelDataReader.xml
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\bin\Debug\ExcelDataReader.DataSet.xml
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.csproj.AssemblyReference.cache
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.csproj.ResolveComReference.cache
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\obj\Debug\sedih.FormKmeans.resources
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.FormProject1.resources
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.FormUtama.resources
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.Properties.Resources.resources
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.csproj.GenerateResource.cache
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.csproj.CoreCompileInputs.cache
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.csproj.CopyComplete
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.exe
+D:\Users\User\Downloads\cek coba\trakhiir hruse\DataMining\DataMining\obj\Debug\DataMining.pdb
